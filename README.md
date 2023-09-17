@@ -8,4 +8,4 @@ Google Data Analytics Capstone Project: How Does a Bike Share Navigate Speedy Su
 Initial insights were collected using Microsoft Excel. (Data cleaning, Data Integrity, Pivot Table)
 
 Further analysis was done in Mcrosoft Sequel Server.
-visulization using tableu
+visulization using excel
